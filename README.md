@@ -1,4 +1,4 @@
-### My name is sandy
+### 👋 My name is sandy
 
 Here you'll find renderers, game engines, and games. I do other things too, but they're not here yet.
 
