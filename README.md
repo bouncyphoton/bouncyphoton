@@ -1,12 +1,10 @@
 ### 👋 My name is sandy
 
-Here you'll find renderers, game engines, and games. I do other things too, but they're not here yet.
+Here you'll find renderers, game engines, and games. I do other things too, but they're not here :)
 
-- 📫 How to reach me: [@bouncyphoton](https://twitter.com/bouncyphoton)
+✨ Check out my website for some cool articles, as well as my portfolio: https://sandy.fyi/
 
-### Featured Projects
-
-Currently, my main personal project is [ivy](https://github.com/bouncyphoton/ivy) which is my Vulkan framework/toy game engine. Also here is [acorn](https://github.com/bouncyphoton/acorn) which was my previous framework/toy game engine and [maple](https://github.com/bouncyphoton/maple) which was my first attempt at a compute shader path tracer.
+### Past Projects
 
 | [ivy](https://github.com/bouncyphoton/ivy) | [acorn](https://github.com/bouncyphoton/acorn) | [maple](https://github.com/bouncyphoton/maple) |
 | --- | ----- | ----- |
